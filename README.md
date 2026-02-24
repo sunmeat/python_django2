@@ -1,1 +1,1 @@
-# DjangoWebProject1
+# CSS styles + icon (static folder)
